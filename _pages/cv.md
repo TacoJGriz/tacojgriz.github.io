@@ -11,54 +11,74 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Houston, 2026 (expected) 
+  * Relevent Coursework:
+    * Algorithms  and Data Structures: Spring ‘25 at UH
+    * Fundamentals of Software Engineering: Fall ‘25 at UH
+    * Database Systems: Fall ‘25 at UH
+    * Data Science I: Fall ‘25 at UH
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Coding with Kids Coding Instructor
+  * Delivered engaging coding curriculums for children ages 4-13 
+  * Collaborated with local schools to plan and execute summer camp programs
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2021 - Jan. 2025: Legit 3D
+  * Worked at A small business brand specializing in 3D printed and laser engraved products
+  * Designed custom software to turn customer information into an SVG file ready for laser engraving
+  * Designed 3D models and renders in Blender to use as product graphics on Amazon
+  * Facilitated 3D printing and laser engraving operations
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec. 2021 - Aug. 2024: Chick-fil-A Front of House Team Member
+  * Coordinated and delivered orders, maintaining high quality and accuracy standards at a fast pace and in a stressful environment
+  * Drastically improved teamwork skills by working with fellow employees to guarantee quick and coordinated order preparation
+  * Learned professional techniques to resolve customer service issues promptly and professionally
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Development:
+  * Strong experience in C++, Java, JavaScript, PHP, SQL, and more
+  * Working on Linux systems
+* Design:
+  * Web/Mobile Application development in React
+  * 3D modeling in Blender
+  * Database Design
+* Data Science
+  * Data analysis and machine learning in R and Python
 
-Publications
-======
+<!-- Publications
+ ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>-->
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->  
+
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->
+
+Honors:
 ======
-* Currently signed in to 43 different slack teams
+* NSM Dean's Distinguished Scholar's List, Fall ‘23, Spring '24
+* NSM Dean’s List Spring ‘25
+
+Activities:
+======
+* Spirit Of Houston Marching Band and Cougar Brass Saxophonist
+* ΤΒΣ Membership Candidate
+
+
+
