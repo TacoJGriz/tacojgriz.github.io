@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See my resume [here](../files/resume.pdf)
+
 Education
 ======
 * B.S. in Computer Science, University of Houston, 2026 (expected) 
